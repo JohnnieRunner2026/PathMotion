@@ -1,0 +1,26 @@
+{
+  "name": "com.jonnierunner.pathmotion",
+  "version": "1.0.0",
+  "displayName": "PathMotion",
+  "description": "Author a motion path directly in the Unity Scene view, key the speed yourself, preview the motion live without entering Play mode, and bake the result into an editable AnimationClip.",
+  "unity": "2020.3",
+  "keywords": [
+    "path",
+    "spline",
+    "curve",
+    "motion",
+    "trajectory",
+    "animation",
+    "catmull-rom",
+    "hermite"
+  ],
+  "author": {
+    "name": "JohnnieRunner2026",
+    "url": "https://github.com/JohnnieRunner2026"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnnieRunner2026/PathMotion.git"
+  },
+  "dependencies": {}
+}
